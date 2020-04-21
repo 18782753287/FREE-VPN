@@ -31,15 +31,46 @@ https://d9cloud.pw/user
 </details> 
 
 ### 2020.4.15增加9个
-* https://skcloud.site/auth/register?code=Ot7A
-* https://d9cloud.pw/user
-* https://neukssr.club/user
-* https://www.hx4.pw/ 
-* https://youyun666.com/user
-* https://v.2ray.de/auth/register
-* https://n3ro.fun/auth/register
-* https://kcjisu.casa/auth/register
-* https://xtunnel.cc/auth/register?code=suDN
+<details>
+<summary>展开查看</summary>
+<pre><code>
+https://skcloud.site/auth/register?code=Ot7A
+https://d9cloud.pw/user
+https://neukssr.club/user
+https://www.hx4.pw/ 
+https://youyun666.com/user
+https://v.2ray.de/auth/register
+https://n3ro.fun/auth/register
+https://kcjisu.casa/auth/register
+https://xtunnel.cc/auth/register?code=suDN
+</code></pre>
+</details> 
+
+##4月21日
+http://situcloud.xyz/auth/register
+https://kcjisu.casa/user
+https://www.jinzita9.com/auth/register
+https://xixicats.com/auth/register
+https://subsice.site/auth/register
+https://zfj.sr3.xyz/
+https://2020.cfssr.xyz/auth/register?code=8ktm
+https://stc-beta4.com/auth/register
+https://m60cloud.cn/auth/login
+http://www.cxk.best/auth/register
+https://thessr.shop/auth/register
+https://hualuows.xyz/auth/register
+http://cxkv2.xyz/auth/register
+https://suying666.net/auth/register
+https://zfj.aeer.xyz/auth/register
+https://source-beat1.com/user#
+https://zuisucloud.live/user
+https://ufocloud.xyz/user
+https://www.ipip.plus/
+https://baicaonetwork1.com/user##
+https://zaizaicloud.pw/user##
+https://www.oness.me/user
+https://richv2ray.online/user/node
+https://portal.ibcn.space/user
 
 
 
