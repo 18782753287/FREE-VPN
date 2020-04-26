@@ -46,7 +46,7 @@ https://xtunnel.cc/auth/register?code=suDN
 </code></pre>
 </details> 
 
-##4月21日
+## 4月21日
 http://situcloud.xyz/auth/register    
 https://kcjisu.casa/user    
 https://www.jinzita9.com/auth/register   
@@ -76,7 +76,7 @@ https://portal.ibcn.space/user
 
 有一些机场是可以无限嫖哦,自己去试试.
 
-## 免费VPN Chrome插件(速度较快粗体,看ytb能到1080p)
+## Chrome插件(速度较快粗体,看ytb能到1080p)
 
 + **Astar VPN**        
    https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh?hl=zh-CN  
@@ -93,6 +93,13 @@ https://portal.ibcn.space/user
 + SetupVPN   
    https://chrome.google.com/webstore/detail/oofgbpoabipfcfjapgnbbjjaenockbdp       
    *比较稳,但速度不是很快,自己可以去试一试,节点还是很多的.*
+***
+
+## 免费VPN
++ **Bitss**   
+   https://bitss1.club/    
+   *速度不错,看ytb1440p左右,4K较困难,有点卡.试用4天,无需验证邮箱!白嫖党知道什么意思(滑稽)*
+   
   
 
 
