@@ -97,7 +97,7 @@ https://portal.ibcn.space/user
 
 ## 免费VPN
 + **Bitss**   
-   https://bitss1.club/    
+   https://bitss1.club/      
    *速度不错,看ytb1440p左右,4K较困难,有点卡.试用4天,无需验证邮箱!白嫖党知道什么意思(滑稽)*
    
   
