@@ -46,7 +46,10 @@ https://xtunnel.cc/auth/register?code=suDN
 </code></pre>
 </details> 
 
-## 4月21日
+### 4月21日
+<details>
+<summary>展开查看</summary>
+<pre><code>
 http://situcloud.xyz/auth/register    
 https://kcjisu.casa/user    
 https://www.jinzita9.com/auth/register   
@@ -71,8 +74,25 @@ https://zaizaicloud.pw/user##
 https://www.oness.me/user                    
 https://richv2ray.online/user/node            
 https://portal.ibcn.space/user                                       
-             
+</code></pre>
+</details>      
 
+### 4月30日
+https://v2pop.com/#/register?code=CaUhIkG2
+https://host2.colordog.tk/user
+https://www.q8891q.cf/auth/login
+https://v8cloud.club/auth/login
+https://mray.club/#/dashboard
+http://90fq.xyz/user
+http://www.chenqiushi.cf/user/node
+https://v2.xsos.vip/#/subscribe
+https://www.xyzssr.xyz/user
+https://starscloud.cc/user
+https://my66.me/user##
+https://xbsj6789.site/portal/order/node?tab=net_type_v2ray
+https://www.maomi.space/user
+https://fast-fish.cc/user/node
+https://edu.lovess.top/
 
 有一些机场是可以无限嫖哦,自己去试试.
 
