@@ -1,5 +1,10 @@
 # 我自己分享的一些免费机场以及免费VPN,白嫖为主  
 ***
+
+## 福利TG机器人
+https://t.me/LWDfreeshare_bot?start=r00771984610                            
+一个很好的东西, 免费发放Hulu,Disney+,VPN账号,攒积分还可以换奖品,譬如Netflix,Minecraft账号
+
 ## 免费机场
 <details>
 <summary>展开查看</summary>
