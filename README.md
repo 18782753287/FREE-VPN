@@ -3,7 +3,7 @@
 
 ## 福利TG机器人
 https://t.me/LWDfreeshare_bot?start=r00771984610                            
-一个很好的东西, 免费发放Hulu,Disney+,VPN账号,攒积分还可以换奖品,譬如Netflix,Minecraft账号
+一个很好的东西,提供免费的会员账号Netflix，hulu，Disney+，Spotify等等,攒积分还可以换奖品,譬如Netflix,Minecraft账号 
 
 ## 免费机场
 <details>
