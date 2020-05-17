@@ -129,7 +129,7 @@ https://bityun.org/#/subscribe
    
 + **VeePN**         
    https://chrome.google.com/webstore/detail/veepn-unlimited-free-fast/majdfhpaihoncoakbjgbdhglocklcgno  
-   *速度不错,登录试用全部节点一天,有免费节点,但可以刷.具体可以邮件私聊我.*
+   *速度不错,登录试用全部节点一天,有免费节点,但可以刷.无需验证账邮箱*
    
 + **SkyZIP Proxy**  
    https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi?hl=zh-CN   
