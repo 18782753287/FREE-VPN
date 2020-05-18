@@ -1,5 +1,6 @@
 # 我自己分享的一些免费机场以及免费VPN,白嫖为主  
 ***
+## 想fork的赶快fork,3天后关闭, 2hui结束后可能再开.
 
 ## 福利TG机器人
 https://t.me/LWDfreeshare_bot?start=r00771984610                            
